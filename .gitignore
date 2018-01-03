@@ -1,0 +1,5 @@
+template.txt
+*.zip
+*.gz
+log/*.log
+
